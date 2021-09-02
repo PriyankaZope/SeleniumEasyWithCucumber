@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="25.235">
-<testcase classname="Feature ID 005 : In order to verify topup menu of Demo Home page is displayed" name="Verify topup menu" time="25.002">
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="26.21">
+<testcase classname="Feature ID 005 : In order to verify topup menu of Demo Home page is displayed" name="Verify topup menu" time="25.789">
 <system-out><![CDATA[Given user is on the Demo home page.........................................passed
 When verify header of demo home page........................................passed
 Then verify the topup menu of demo home page................................passed

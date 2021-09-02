@@ -3,11 +3,11 @@
     "line": 2,
     "elements": [
       {
-        "start_timestamp": "2021-09-01T10:25:06.466Z",
+        "start_timestamp": "2021-09-02T11:12:35.429Z",
         "before": [
           {
             "result": {
-              "duration": 20838000000,
+              "duration": 22166000000,
               "status": "passed"
             },
             "match": {
@@ -15,14 +15,14 @@
             }
           }
         ],
-        "line": 8,
+        "line": 7,
         "name": "Verify topup menu",
         "description": "",
         "id": "feature-id-005-:-in-order-to-verify-topup-menu-of-demo-home-page-is-displayed;verify-topup-menu",
         "after": [
           {
             "result": {
-              "duration": 2861000000,
+              "duration": 1505000000,
               "status": "passed"
             },
             "match": {
@@ -37,7 +37,7 @@
             "result": {
               "status": "passed"
             },
-            "line": 9,
+            "line": 8,
             "name": "user is on the Demo home page",
             "match": {
               "location": "com.stepDefinnition.StepDefSeleniumEasy.user_is_on_the_demo_home_page()"
@@ -46,10 +46,10 @@
           },
           {
             "result": {
-              "duration": 49000000,
+              "duration": 91000000,
               "status": "passed"
             },
-            "line": 10,
+            "line": 9,
             "name": "verify header of demo home page",
             "match": {
               "location": "com.stepDefinnition.StepDefSeleniumEasy.verify_header_of_demo_home_page()"
@@ -58,10 +58,10 @@
           },
           {
             "result": {
-              "duration": 1232000000,
+              "duration": 1991000000,
               "status": "passed"
             },
-            "line": 11,
+            "line": 10,
             "name": "verify the topup menu of demo home page",
             "match": {
               "location": "com.stepDefinnition.StepDefSeleniumEasy.verify_the_topup_menu_of_demo_home_page(io.cucumber.datatable.DataTable)"
